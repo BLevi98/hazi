@@ -1,0 +1,21 @@
+Neptun kód	Név	Email	Születési dátum
+JJ7DUJ	Barna Dénes	barna.denes@email.hu	2003.07.12
+965GP6	Budai Arnold	budai.arnold@email.hu	2001.02.23
+1Y0RQU	Csatár Roland	csatar.roland@email.hu	2002.09.14
+98CP01	Gál Botond	gal.botond@email.hu	2003.12.10
+9YA1RD	Hegedüs Árpád	hegedus.arpad@email.hu	2003.01.03
+O2KV92	Horváth Lajos	horvath.lajos@email.hu	2001.07.22
+5R5G9M	Kiss Albert	kiss.albert@email.hu	2001.08.02
+JU2YOF	Mészáros Soma	meszaros.soma@email.hu	2001.11.19
+Z2SK1C	Mezei Dominik	mezei.dominik@email.hu	2005.09.09
+RXC80F	Orosz Ferenc	orosz.ferenc@email.hu	2004.04.13
+F4T128	Orsós Áron	orsos.aron@email.hu	2001.05.28
+29AOUS	Papp Imre	papp.imre@email.hu	2002.09.16
+L9X5XT	Rácz Zalán	racz.zalan@email.hu	2003.03.18
+4UJY5Y	Simon Marcell	simon.marcell@email.hu	2004.07.03
+TR2MTH	Szabó Márk	szabo.mark@email.hu	2004.11.25
+RWZ10N	Szekeres Tibor	szekeres.tibor@email.hu	2001.02.26
+9DYXUV	Szõke Béla	szoke.bela@email.hu	2004.06.13
+5QMIA9	Török Zoltán	torok.zoltan@email.hu	2002.09.04
+HBN8KS	Vörös Krisztián	voros.krisztian@email.hu	2004.05.26
+5OCGE6	Zobor Zsombor	zobor.zsombor@email.hu	2004.11.04
